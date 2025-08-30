@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/SMChowdhuri/Weld_Defect_Detection.git
+git clone https://github.com/Akashkittu/Weld_Defect_Detection.git
 cd weld-defect-detection
 ```
 
